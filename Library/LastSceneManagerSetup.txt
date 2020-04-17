@@ -1,0 +1,4 @@
+sceneSetups:
+- path: H:/Unity2Botones/Assets/UnityArduino.unity
+  isLoaded: 1
+  isActive: 1
